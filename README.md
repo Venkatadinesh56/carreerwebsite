@@ -1,7 +1,7 @@
 # carreerwebsite
-# 📚 StudyPlus360
+# 📚 carreerwebsite
 
-*StudyPlus360* is an innovative e-learning platform designed to provide high-quality educational resources, online classes, and personalized learning experiences. This project includes a modern, fully responsive website built with *HTML and CSS*, featuring vibrant colors, smooth transitions, and an engaging user interface.
+*carreerwebsite* is an innovative e-learning platform designed to provide high-quality educational resources, online classes, and personalized learning experiences. This project includes a modern, fully responsive website built with *HTML and CSS*, featuring vibrant colors, smooth transitions, and an engaging user interface.
 
 ---
 
